@@ -26,12 +26,6 @@ pip install websockets
 pip install asyncio
 pip install colorama
 pip install aiohttp
-pip install threading
-pip install socket
-pip install collections
-pip install sys
-pip install urlibparse
-pip install json
 
 clear
 echo -e "
