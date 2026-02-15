@@ -18,6 +18,7 @@ echo -e "
           \033[7m   ▄ ▀████▀████▀ ▄    ${N}  ${O}./Kedjaw${O}3${O}n${N}
           \033[7m ▀█    ██▀█▀██    █▀  ${N}
           \033[7m     H A C K E D      ${N}"
+echo -e ""
 #=== install module bre ===#
 pip install websockets
 pip install asyncio
@@ -31,19 +32,15 @@ pip install urlibparse
 pip install json
 
 clear
-echo -e"
-   ${G}    .---.        .----------- ${N}
-  ${G}    /     \  __  /    ------ ${N}
-   ${G}  / /     \(  )/    -----  ${N}   \033[7;36m Juned Ddos Tools ${N}\033[1;36m\033[1m Full${N}
-  ${G}  //////   ' \/ \`   ---   ${N}    \033[2m |==┣▇▇▇▇▇▇▇▇═─-Ddos ${N}
-${G}   //// / // :    : ---   ${N}       ${R}Agressiv${N}Requests${N}
-${G}  // /   /  /\`    '--     ${N}      ${O}./Juned${O}3${O}n${N} 
-${G} //          //..\\${N}
-    ${G}    ====UU====UU====
-            '//||\\\`
-              ''\`\`
-        ${R}[✓] Module Berhasil di Install ${N}"
-        
+echo -e "
+                        \033[7;36mDdos Tools Pro${N}
+                          /      ${N}\033[3;35mDdos tools evolution${N}
+         ░░░░░░░▄█▄▄▄█▄  /       ${N}|==┣▇▇▇▇▇▇═─-Ddos${N}
+         ▄▀░░░░▄▌─▄─▄─▐▄ ░░░▀▄   ${R}Agressiv${N}Requests${N}
+         █▄▄█░░▀▌─▀─▀─▐▀░░█▄▄█   ${O}JunedXsec${O}3${O}n${N} 
+         ░▐▌░░░░▀▀███▀▀░░░░▐▌
+         ████░▄█████████▄░████
+        "
 echo -e "\033[7;31m[+] Selesai Install Module, Menuju ke tools$N"
-sleep(2)
+sleep 2
 python3 juned_main.py
