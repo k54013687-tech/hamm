@@ -8,7 +8,7 @@
 🔥 Dudus Tulls Methods Dokumentasi
 
 <div align="center">
-  <img src="https://k.top4top.io/p_36916et1f0.jpg" alt="Index" width="200" height="400"> 
+  <img src="https://g.top4top.io/p_3698v18u20.jpg" alt="Index" width="200" height="400"> 
 </div>
 
 #### Tested On  :
