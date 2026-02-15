@@ -9,20 +9,15 @@ BR="\033[0;34m"
 U="\033[0;35m"
 
 clear
-echo -e "\033[7;31m Instalation Module ${N}${R} FINAL${N}${G}""
-       　　　/)        /  
-     　　_(⌒)＿　　/)            instalation Module
-     　／ / ﾉ　 ヽ /ﾋE)          |==┣▇▇▇▇▇▇═─-SQl-i
-     `/ｲ// /LLﾄLL|/ /           Sabar Ya Bree
-     ｜|/ /(6　6(/ /             ./Juned
-     ｜/_/ " ヮ"ﾉ_/
-     /Y　ﾚ `ーイ /
-     ﾚ|　ヽ-====-＼
-     ﾚヽ　/／⌒＼⌒＼
-     　 ＼ｿ 　　｜  l
-     　　 )ヽ＿／＿／
-     　 ／　　 ﾉ 
-"
+echo -e " 
+                    \033[7;31m PSQL-I v.3 MOD ${N}${R} FINAL${N}
+                          /
+          \033[7m${R}\033[7m  ${N}\033[7m▄${R}\033[7m    ${N}\033[7m▄▄▄▄▄▄▄${R}\033[7m    ${N}\033[7m▄${R}\033[7m   ${N}  ${N}${G}\033[2mProses Install Module tools${N}
+          \033[7m${R}\033[7m ${N}\033[7m▀▀▄${R}\033[7m ${N}\033[7m▄█████████▄${R}\033[7m ${N}\033[7m▄▀▀${R}\033[7m  ${N}  ${N}|==┣▇▇▇▇▇▇═─-Ddos${N}
+          \033[7m${R}\033[7m     ${N}\033[7m██${R}\033[7m ${N}\033[7m▀███▀${R}\033[7m ${N}\033[7m██${R}\033[7m      ${N}  ${R}Agressiv${N}requests${N}
+          \033[7m   ▄ ▀████▀████▀ ▄    ${N}  ${O}./Kedjaw${O}3${O}n${N}
+          \033[7m ▀█    ██▀█▀██    █▀  ${N}
+          \033[7m     H A C K E D      ${N}"
 #=== install module bre ===#
 pip install websockets
 pip install asyncio
@@ -35,11 +30,12 @@ pip install sys
 pip install urlibparse
 pip install json
 
-banner5="
+clear
+echo -e"
    ${G}    .---.        .----------- ${N}
   ${G}    /     \  __  /    ------ ${N}
    ${G}  / /     \(  )/    -----  ${N}   \033[7;36m Juned Ddos Tools ${N}\033[1;36m\033[1m Full${N}
-  ${G}  //////   ' \/ \`   ---   ${N}    \033[2m |==┣▇▇▇▇▇▇▇▇═─-SQl-i ${N}
+  ${G}  //////   ' \/ \`   ---   ${N}    \033[2m |==┣▇▇▇▇▇▇▇▇═─-Ddos ${N}
 ${G}   //// / // :    : ---   ${N}       ${R}Agressiv${N}Requests${N}
 ${G}  // /   /  /\`    '--     ${N}      ${O}./Juned${O}3${O}n${N} 
 ${G} //          //..\\${N}
