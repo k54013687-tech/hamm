@@ -19,6 +19,8 @@ echo -e "
           \033[7m ▀█    ██▀█▀██    █▀  ${N}
           \033[7m     H A C K E D      ${N}"
 echo -e ""
+sleep 2
+clear
 #=== install module bre ===#
 pip install websockets
 pip install asyncio
@@ -41,6 +43,7 @@ echo -e "
          ░▐▌░░░░▀▀███▀▀░░░░▐▌
          ████░▄█████████▄░████
         "
+echo -e ""
 echo -e "\033[7;31m[+] Selesai Install Module, Menuju ke tools$N"
 sleep 2
 python3 juned_main.py
