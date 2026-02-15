@@ -46,7 +46,7 @@ git clone https://github.com/k54013687-tech/hamm
 cd hamm
 ```
 ```
-python juned_main.py
+bash install.sh
 ```
 ### ©️ Copyright
 Copyright © 2025 by [Juned](https://github.com/k54013687-tech)
